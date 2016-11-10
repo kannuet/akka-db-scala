@@ -1,8 +1,8 @@
-package com.akka
+package com.akka.db
 
 import akka.actor.Actor
 import akka.event.Logging
-import com.akka.messages.SetRequest
+import com.akka.db.messages.SetRequest
 
 import scala.collection.mutable
 
